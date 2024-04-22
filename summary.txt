@@ -1,3 +1,0 @@
-You shouldn't display poor error message as a designer. 
-Your error message must be informative to the user so that they can understnd what is going on. 
-Instead of condemning users for an error, messages should tell them how to correct it.
